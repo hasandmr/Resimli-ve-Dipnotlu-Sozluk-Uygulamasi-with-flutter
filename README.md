@@ -20,17 +20,17 @@ Uygulama, **MVVM (Model-View-ViewModel)** tasarım desenine uygun olarak gelişt
         Filtreleme Seçme 
       </td>
       <td align="center" style="padding: 10px 15px;">
-        <img src="asset/screenshot/screenshot_3.jpg" width="250" alt="Ekran Görüntüsü 3"/><br>
+        <img src="asset/screenshot/Screenshot_3.jpg" width="250" alt="Ekran Görüntüsü 3"/><br>
         Swach Buton Çalışması
       </td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px 15px;">
-        <img src="asset/screenshot/screenshot_4.jpg" width="250" alt="Ekran Görüntüsü 4"/><br>
+        <img src="asset/screenshot/Screenshot_4.jpg" width="250" alt="Ekran Görüntüsü 4"/><br>
         Kelime Ekleme Sayfası
       </td>
       <td align="center" style="padding: 10px 15px;">
-        <img src="asset/screenshot/screenshot_5.jpg" width="250" alt="Ekran Görüntüsü 5"/><br>
+        <img src="asset/screenshot/Screenshot_5.jpg" width="250" alt="Ekran Görüntüsü 5"/><br>
         Veri Girildi mi Kontrolleri
       </td>
       <td align="center" style="padding: 10px 15px;">
@@ -40,15 +40,15 @@ Uygulama, **MVVM (Model-View-ViewModel)** tasarım desenine uygun olarak gelişt
     </tr>
     <tr>
       <td align="center" style="padding: 10px 15px;">
-        <img src="asset/screenshot/screenshot_7.jpg" width="250" alt="Ekran Görüntüsü 7"/><br>
+        <img src="asset/screenshot/Screenshot_7.jpg" width="250" alt="Ekran Görüntüsü 7"/><br>
         Kelime Güncelleme Alanı
       </td>
       <td align="center" style="padding: 10px 15px;">
-        <img src="asset/screenshot/screenshot_9.jpeg" width="250" alt="Ekran Görüntüsü 9"/><br>
+        <img src="asset/screenshot/Screenshot_9.jpeg" width="250" alt="Ekran Görüntüsü 9"/><br>
         Veri Silme
       </td>
       <td align="center" style="padding: 10px 15px;">
-        <img src="asset/screenshot/screenshot_8.jpeg" width="250" alt="Ekran Görüntüsü 8"/><br>
+        <img src="asset/screenshot/Screenshot_8.jpeg" width="250" alt="Ekran Görüntüsü 8"/><br>
         Silme İşlemini Onaylama
       </td>
     </tr>
